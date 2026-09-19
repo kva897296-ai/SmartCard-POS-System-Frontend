@@ -1,0 +1,109 @@
+{
+  "app": {
+    "title": "智能卡POS系统",
+    "subtitle": "销售终端"
+  },
+  "nav": {
+    "pos": "POS终端",
+    "products": "产品",
+    "transactions": "交易记录",
+    "settings": "设置"
+  },
+  "products": {
+    "title": "产品目录",
+    "search": "搜索产品...",
+    "category": "类别",
+    "allCategories": "所有类别",
+    "addToCart": "加入购物车",
+    "outOfStock": "缺货",
+    "price": "价格",
+    "stock": "库存",
+    "sku": "SKU"
+  },
+  "cart": {
+    "title": "购物车",
+    "empty": "您的购物车是空的",
+    "item": "商品",
+    "quantity": "数量",
+    "price": "价格",
+    "subtotal": "小计",
+    "tax": "税费",
+    "discount": "折扣",
+    "total": "总计",
+    "clear": "清空购物车",
+    "checkout": "结账"
+  },
+  "payment": {
+    "title": "支付",
+    "selectMethod": "选择支付方式",
+    "emv": "EMV芯片卡",
+    "nfc": "NFC/非接触式",
+    "magnetic": "磁条卡",
+    "cash": "现金",
+    "qrCode": "二维码",
+    "processing": "处理支付中...",
+    "insertCard": "插入卡片",
+    "tapCard": "轻触卡片",
+    "swipeCard": "刷卡",
+    "approved": "支付已批准",
+    "declined": "支付已拒绝",
+    "error": "支付错误",
+    "cancel": "取消",
+    "retry": "重试",
+    "complete": "完成"
+  },
+  "receipt": {
+    "title": "收据",
+    "receiptNumber": "收据编号",
+    "date": "日期",
+    "terminal": "终端",
+    "paymentMethod": "支付方式",
+    "cardNumber": "卡号",
+    "authCode": "授权码",
+    "print": "打印",
+    "email": "电子邮件",
+    "close": "关闭",
+    "thankYou": "感谢您的购买！"
+  },
+  "transactions": {
+    "title": "交易历史",
+    "transactionId": "交易ID",
+    "date": "日期",
+    "amount": "金额",
+    "status": "状态",
+    "method": "方式",
+    "viewReceipt": "查看收据",
+    "noTransactions": "未找到交易记录"
+  },
+  "status": {
+    "pending": "待处理",
+    "processing": "处理中",
+    "approved": "已批准",
+    "declined": "已拒绝",
+    "cancelled": "已取消",
+    "error": "错误"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "confirm": "确认",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "back": "返回",
+    "next": "下一步",
+    "close": "关闭",
+    "search": "搜索",
+    "filter": "筛选",
+    "refresh": "刷新"
+  },
+  "errors": {
+    "generic": "发生错误。请重试。",
+    "network": "网络错误。请检查您的连接。",
+    "payment": "支付处理失败。",
+    "cardReader": "读卡器错误。",
+    "timeout": "请求超时。请重试。"
+  }
+}

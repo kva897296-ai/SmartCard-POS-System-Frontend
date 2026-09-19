@@ -1,0 +1,72 @@
+.paymentSelector {
+  padding: 2rem;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 1.75rem;
+  color: var(--dark);
+}
+
+.methods {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.methodButton {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 1rem;
+  background: white;
+  border: 3px solid var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: var(--transition);
+  min-height: 160px;
+}
+
+.methodButton:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 20px var(--shadow);
+}
+
+.methodIcon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.methodLabel {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--dark);
+  text-align: center;
+}
+
+.actions {
+  display: flex;
+  gap: 1rem;
+}
+
+@media (max-width: 768px) {
+  .methods {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .methodButton {
+    padding: 1.5rem 0.75rem;
+    min-height: 140px;
+  }
+
+  .methodIcon {
+    font-size: 2.5rem;
+  }
+
+  .methodLabel {
+    font-size: 0.875rem;
+  }
+}

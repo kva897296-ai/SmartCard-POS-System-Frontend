@@ -1,0 +1,109 @@
+{
+  "app": {
+    "title": "Smart Card POS System",
+    "subtitle": "Point of Sale Terminal"
+  },
+  "nav": {
+    "pos": "POS Terminal",
+    "products": "Products",
+    "transactions": "Transactions",
+    "settings": "Settings"
+  },
+  "products": {
+    "title": "Product Catalog",
+    "search": "Search products...",
+    "category": "Category",
+    "allCategories": "All Categories",
+    "addToCart": "Add to Cart",
+    "outOfStock": "Out of Stock",
+    "price": "Price",
+    "stock": "Stock",
+    "sku": "SKU"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "item": "Item",
+    "quantity": "Quantity",
+    "price": "Price",
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "discount": "Discount",
+    "total": "Total",
+    "clear": "Clear Cart",
+    "checkout": "Checkout"
+  },
+  "payment": {
+    "title": "Payment",
+    "selectMethod": "Select Payment Method",
+    "emv": "EMV Chip Card",
+    "nfc": "NFC/Contactless",
+    "magnetic": "Magnetic Stripe",
+    "cash": "Cash",
+    "qrCode": "QR Code",
+    "processing": "Processing payment...",
+    "insertCard": "Insert card",
+    "tapCard": "Tap card",
+    "swipeCard": "Swipe card",
+    "approved": "Payment Approved",
+    "declined": "Payment Declined",
+    "error": "Payment Error",
+    "cancel": "Cancel",
+    "retry": "Retry",
+    "complete": "Complete"
+  },
+  "receipt": {
+    "title": "Receipt",
+    "receiptNumber": "Receipt #",
+    "date": "Date",
+    "terminal": "Terminal",
+    "paymentMethod": "Payment Method",
+    "cardNumber": "Card Number",
+    "authCode": "Authorization Code",
+    "print": "Print",
+    "email": "Email",
+    "close": "Close",
+    "thankYou": "Thank you for your purchase!"
+  },
+  "transactions": {
+    "title": "Transaction History",
+    "transactionId": "Transaction ID",
+    "date": "Date",
+    "amount": "Amount",
+    "status": "Status",
+    "method": "Method",
+    "viewReceipt": "View Receipt",
+    "noTransactions": "No transactions found"
+  },
+  "status": {
+    "pending": "Pending",
+    "processing": "Processing",
+    "approved": "Approved",
+    "declined": "Declined",
+    "cancelled": "Cancelled",
+    "error": "Error"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "close": "Close",
+    "search": "Search",
+    "filter": "Filter",
+    "refresh": "Refresh"
+  },
+  "errors": {
+    "generic": "An error occurred. Please try again.",
+    "network": "Network error. Please check your connection.",
+    "payment": "Payment processing failed.",
+    "cardReader": "Card reader error.",
+    "timeout": "Request timeout. Please try again."
+  }
+}

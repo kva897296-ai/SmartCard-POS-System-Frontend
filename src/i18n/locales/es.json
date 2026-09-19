@@ -1,0 +1,109 @@
+{
+  "app": {
+    "title": "Sistema POS de Tarjeta Inteligente",
+    "subtitle": "Terminal Punto de Venta"
+  },
+  "nav": {
+    "pos": "Terminal POS",
+    "products": "Productos",
+    "transactions": "Transacciones",
+    "settings": "Configuración"
+  },
+  "products": {
+    "title": "Catálogo de Productos",
+    "search": "Buscar productos...",
+    "category": "Categoría",
+    "allCategories": "Todas las Categorías",
+    "addToCart": "Agregar al Carrito",
+    "outOfStock": "Agotado",
+    "price": "Precio",
+    "stock": "Existencias",
+    "sku": "SKU"
+  },
+  "cart": {
+    "title": "Carrito de Compras",
+    "empty": "Su carrito está vacío",
+    "item": "Artículo",
+    "quantity": "Cantidad",
+    "price": "Precio",
+    "subtotal": "Subtotal",
+    "tax": "Impuesto",
+    "discount": "Descuento",
+    "total": "Total",
+    "clear": "Vaciar Carrito",
+    "checkout": "Pagar"
+  },
+  "payment": {
+    "title": "Pago",
+    "selectMethod": "Seleccionar Método de Pago",
+    "emv": "Tarjeta con Chip EMV",
+    "nfc": "NFC/Sin Contacto",
+    "magnetic": "Banda Magnética",
+    "cash": "Efectivo",
+    "qrCode": "Código QR",
+    "processing": "Procesando pago...",
+    "insertCard": "Insertar tarjeta",
+    "tapCard": "Acercar tarjeta",
+    "swipeCard": "Deslizar tarjeta",
+    "approved": "Pago Aprobado",
+    "declined": "Pago Rechazado",
+    "error": "Error de Pago",
+    "cancel": "Cancelar",
+    "retry": "Reintentar",
+    "complete": "Completar"
+  },
+  "receipt": {
+    "title": "Recibo",
+    "receiptNumber": "Recibo #",
+    "date": "Fecha",
+    "terminal": "Terminal",
+    "paymentMethod": "Método de Pago",
+    "cardNumber": "Número de Tarjeta",
+    "authCode": "Código de Autorización",
+    "print": "Imprimir",
+    "email": "Correo Electrónico",
+    "close": "Cerrar",
+    "thankYou": "¡Gracias por su compra!"
+  },
+  "transactions": {
+    "title": "Historial de Transacciones",
+    "transactionId": "ID de Transacción",
+    "date": "Fecha",
+    "amount": "Monto",
+    "status": "Estado",
+    "method": "Método",
+    "viewReceipt": "Ver Recibo",
+    "noTransactions": "No se encontraron transacciones"
+  },
+  "status": {
+    "pending": "Pendiente",
+    "processing": "Procesando",
+    "approved": "Aprobado",
+    "declined": "Rechazado",
+    "cancelled": "Cancelado",
+    "error": "Error"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "confirm": "Confirmar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "close": "Cerrar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "refresh": "Actualizar"
+  },
+  "errors": {
+    "generic": "Ocurrió un error. Por favor, inténtelo de nuevo.",
+    "network": "Error de red. Por favor, verifique su conexión.",
+    "payment": "Error al procesar el pago.",
+    "cardReader": "Error del lector de tarjetas.",
+    "timeout": "Tiempo de espera agotado. Por favor, inténtelo de nuevo."
+  }
+}

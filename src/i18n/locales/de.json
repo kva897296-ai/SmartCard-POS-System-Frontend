@@ -1,0 +1,109 @@
+{
+  "app": {
+    "title": "Smartcard-POS-System",
+    "subtitle": "Kassenterminal"
+  },
+  "nav": {
+    "pos": "POS-Terminal",
+    "products": "Produkte",
+    "transactions": "Transaktionen",
+    "settings": "Einstellungen"
+  },
+  "products": {
+    "title": "Produktkatalog",
+    "search": "Produkte suchen...",
+    "category": "Kategorie",
+    "allCategories": "Alle Kategorien",
+    "addToCart": "In den Warenkorb",
+    "outOfStock": "Nicht auf Lager",
+    "price": "Preis",
+    "stock": "Bestand",
+    "sku": "SKU"
+  },
+  "cart": {
+    "title": "Warenkorb",
+    "empty": "Ihr Warenkorb ist leer",
+    "item": "Artikel",
+    "quantity": "Menge",
+    "price": "Preis",
+    "subtotal": "Zwischensumme",
+    "tax": "Steuer",
+    "discount": "Rabatt",
+    "total": "Gesamt",
+    "clear": "Warenkorb leeren",
+    "checkout": "Zur Kasse"
+  },
+  "payment": {
+    "title": "Zahlung",
+    "selectMethod": "Zahlungsmethode wählen",
+    "emv": "EMV-Chipkarte",
+    "nfc": "NFC/Kontaktlos",
+    "magnetic": "Magnetstreifen",
+    "cash": "Bargeld",
+    "qrCode": "QR-Code",
+    "processing": "Zahlung wird verarbeitet...",
+    "insertCard": "Karte einstecken",
+    "tapCard": "Karte auflegen",
+    "swipeCard": "Karte durchziehen",
+    "approved": "Zahlung Genehmigt",
+    "declined": "Zahlung Abgelehnt",
+    "error": "Zahlungsfehler",
+    "cancel": "Abbrechen",
+    "retry": "Wiederholen",
+    "complete": "Abschließen"
+  },
+  "receipt": {
+    "title": "Beleg",
+    "receiptNumber": "Beleg-Nr.",
+    "date": "Datum",
+    "terminal": "Terminal",
+    "paymentMethod": "Zahlungsmethode",
+    "cardNumber": "Kartennummer",
+    "authCode": "Autorisierungscode",
+    "print": "Drucken",
+    "email": "E-Mail",
+    "close": "Schließen",
+    "thankYou": "Vielen Dank für Ihren Einkauf!"
+  },
+  "transactions": {
+    "title": "Transaktionsverlauf",
+    "transactionId": "Transaktions-ID",
+    "date": "Datum",
+    "amount": "Betrag",
+    "status": "Status",
+    "method": "Methode",
+    "viewReceipt": "Beleg anzeigen",
+    "noTransactions": "Keine Transaktionen gefunden"
+  },
+  "status": {
+    "pending": "Ausstehend",
+    "processing": "Wird verarbeitet",
+    "approved": "Genehmigt",
+    "declined": "Abgelehnt",
+    "cancelled": "Storniert",
+    "error": "Fehler"
+  },
+  "common": {
+    "loading": "Lädt...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "confirm": "Bestätigen",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "back": "Zurück",
+    "next": "Weiter",
+    "close": "Schließen",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "refresh": "Aktualisieren"
+  },
+  "errors": {
+    "generic": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+    "network": "Netzwerkfehler. Bitte überprüfen Sie Ihre Verbindung.",
+    "payment": "Zahlungsverarbeitung fehlgeschlagen.",
+    "cardReader": "Kartenleserfehler.",
+    "timeout": "Zeitüberschreitung. Bitte versuchen Sie es erneut."
+  }
+}

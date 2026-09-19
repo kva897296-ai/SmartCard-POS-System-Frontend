@@ -1,0 +1,109 @@
+{
+  "app": {
+    "title": "Système POS Carte Intelligente",
+    "subtitle": "Terminal Point de Vente"
+  },
+  "nav": {
+    "pos": "Terminal POS",
+    "products": "Produits",
+    "transactions": "Transactions",
+    "settings": "Paramètres"
+  },
+  "products": {
+    "title": "Catalogue de Produits",
+    "search": "Rechercher des produits...",
+    "category": "Catégorie",
+    "allCategories": "Toutes les Catégories",
+    "addToCart": "Ajouter au Panier",
+    "outOfStock": "Rupture de Stock",
+    "price": "Prix",
+    "stock": "Stock",
+    "sku": "SKU"
+  },
+  "cart": {
+    "title": "Panier d'Achat",
+    "empty": "Votre panier est vide",
+    "item": "Article",
+    "quantity": "Quantité",
+    "price": "Prix",
+    "subtotal": "Sous-total",
+    "tax": "Taxe",
+    "discount": "Remise",
+    "total": "Total",
+    "clear": "Vider le Panier",
+    "checkout": "Payer"
+  },
+  "payment": {
+    "title": "Paiement",
+    "selectMethod": "Sélectionner le Mode de Paiement",
+    "emv": "Carte à Puce EMV",
+    "nfc": "NFC/Sans Contact",
+    "magnetic": "Bande Magnétique",
+    "cash": "Espèces",
+    "qrCode": "Code QR",
+    "processing": "Traitement du paiement...",
+    "insertCard": "Insérer la carte",
+    "tapCard": "Approcher la carte",
+    "swipeCard": "Glisser la carte",
+    "approved": "Paiement Approuvé",
+    "declined": "Paiement Refusé",
+    "error": "Erreur de Paiement",
+    "cancel": "Annuler",
+    "retry": "Réessayer",
+    "complete": "Terminer"
+  },
+  "receipt": {
+    "title": "Reçu",
+    "receiptNumber": "Reçu #",
+    "date": "Date",
+    "terminal": "Terminal",
+    "paymentMethod": "Mode de Paiement",
+    "cardNumber": "Numéro de Carte",
+    "authCode": "Code d'Autorisation",
+    "print": "Imprimer",
+    "email": "Email",
+    "close": "Fermer",
+    "thankYou": "Merci pour votre achat!"
+  },
+  "transactions": {
+    "title": "Historique des Transactions",
+    "transactionId": "ID de Transaction",
+    "date": "Date",
+    "amount": "Montant",
+    "status": "Statut",
+    "method": "Méthode",
+    "viewReceipt": "Voir le Reçu",
+    "noTransactions": "Aucune transaction trouvée"
+  },
+  "status": {
+    "pending": "En Attente",
+    "processing": "En Cours",
+    "approved": "Approuvé",
+    "declined": "Refusé",
+    "cancelled": "Annulé",
+    "error": "Erreur"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "confirm": "Confirmer",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "back": "Retour",
+    "next": "Suivant",
+    "close": "Fermer",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "refresh": "Actualiser"
+  },
+  "errors": {
+    "generic": "Une erreur s'est produite. Veuillez réessayer.",
+    "network": "Erreur réseau. Veuillez vérifier votre connexion.",
+    "payment": "Échec du traitement du paiement.",
+    "cardReader": "Erreur du lecteur de carte.",
+    "timeout": "Délai d'attente dépassé. Veuillez réessayer."
+  }
+}
